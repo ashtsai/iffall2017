@@ -1,0 +1,42 @@
+header {
+	margin-bottom: 3rem;
+}
+p {
+	line-height: 1.6;
+}
+.see-all {
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: lighter;
+}
+h2 {
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+img {
+	width:100%;
+}
+.cast {
+	width:25%;
+}
+
+Set the margin-bottom of the header to 3rem.
+Set the line-height of all paragraphs to 1.6.
+Make the "See All..." links 0.8em, and uppercase.
+Make the movie titles 2.5rem.
+Make the section-titles 1rem and uppercase.
+Make all titles light weight.
+Make the cast images width:100%;
+Make each castmember element width:25%;
+Add a 1px border above each show — without unintentionally adding 
+borders elsewhere.
+Make the navigation tab with the .selected class be bold and black.
+Make the castmember labels 0.8rem.
+Make the actor/actress names bold.
+Make the character names italic.
+Add an asterisk (*) to the last year in the Game of Thrones seasons list.
+Add the text "* In production" on the next line after the Game of 
+Thrones season list. Make it 0.7rem, and color it to be #999.
