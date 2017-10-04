@@ -286,6 +286,150 @@ copy
 				opacity:0.5;
 			}
 
+			a#btn_ibm {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_ibm:hover {
+				transform:scale3d(1.25,1.25,1.25);
+			}
+
+			a#btn_nike {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_nike:hover {
+				transform:scale3d(.75,.75,.75);
+			}
+
+			a#btn_color {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_color:hover {
+				filter:invert(100%);
+			}
+
+			a#btn_potter {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_potter:hover {
+			margin-top: 70px;
+	-webkit-transform: rotateZ(1080deg); /* Safari */
+	transform: rotateZ(1080deg);
+	transition: 2s;
+			}
+
+			a#btn_mbg {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_mbg:hover {
+				opacity:0.5;
+			}
+
+			a#btn_kittens {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_kittens:hover {
+				transform:scale3d(1.25,1.25,1.25);
+			}
+
+			a#btn_mollyjogger {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_mollyjogger:hover {
+				opacity:0;
+			}
+
+			a#btn_bissingers {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_bissingers:hover {
+				transform:scale3d(.75,.75,.75);
+			}
+
+			a#btn_nerf {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_nerf:hover {
+			margin-top: 70px;
+	-webkit-transform: rotateZ(1080deg); /* Safari */
+	transform: rotateZ(1080deg);
+	transition: 2s;
+			}
+
+			a#btn_tonight {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_tonight:hover {
+				filter:invert(100%);
+			}
+
+			a#btn_harley {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_harley:hover {
+			margin-top: 70px;
+	-webkit-transform: rotateZ(1080deg); /* Safari */
+	transform: rotateZ(1080deg);
+	transition: 2s;
+			}
+
+			a#btn_moo {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_moo:hover {
+				filter:invert(100%);
+			}
+
+			a#btn_hulk {
+				display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+			}
+
+			a#btn_hulk:hover {
+				margin-top: 70px;
+	-webkit-transform: rotateZ(1080deg); /* Safari */
+	transform: rotateZ(1080deg);
+	transition: 2s;
+				filter:invert(100%);
+				transform:scale3d(1.50,1.50,1.50);
+			}
+
 
 
 
