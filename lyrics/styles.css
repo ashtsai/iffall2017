@@ -1,0 +1,27 @@
+html ,
+body {
+	margin:50px;
+	color:white;
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	background-color:#171817;
+	font-size:8pt;
+}
+h1 {
+	font-family: 'Reenie Beanie', cursive;
+	color:#695794;
+	font-weight: 300;
+	font-size: 48pt;
+}
+div.body {
+	position:absolute;
+    margin-left:500px;
+}
+div.title {
+	position:fixed;
+	margin-left: 10px;
+	top: 50px;
+	float: left;
+}
+
+
