@@ -1,0 +1,27 @@
+#callout1{
+	float: right;
+}
+#callout2{
+	position: absolute;
+	right: 200px;
+	bottom: -200px;
+}
+#callout3{
+	position: fixed;
+	top: 0px
+	right: 0px;
+	background-color:green;
+}
+#callout4{
+	position:absolute;
+	margin-left: 320px;
+	margin-top:20px;
+	background-color: red;
+	z-index:1000;
+}
+#callout5{
+	position:absolute;
+	margin-left:330px
+	margin-top:30px;
+	background-color:black;
+}
