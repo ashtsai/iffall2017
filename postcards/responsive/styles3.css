@@ -1,0 +1,57 @@
+body{
+	height:100%
+	padding: none;
+	margin:none;
+	background-image: url("images/hannibal3desktop.png");
+	background-size:cover;
+	background-position:top-right;
+	background-repeat: no-repeat;
+}
+a{
+	display:block;
+	position:absolute;
+	top:0
+	bottom:0
+	right:0
+	left:0
+	}
+#text1{
+	color:black;
+	font-family: 'Avenir', Helvetica, sans-serif;
+	font-weight: 100;
+	font-size:36px;
+}
+@media screen and (max-width: 1600px){
+	#text1{
+	z-index:500;
+	position:absolute;
+	bottom:200px;
+	right:600px;
+	left:200px;
+	top:200px;
+}
+@media screen and (max-width: 1190px){
+	body{
+	background-image: url("images/hannibal3desktop.png");
+	background-size: cover%;
+	background-position: absolute;
+}
+	#text1{
+		font-size: 30px;
+		width: 350px;
+		left: 250px;
+		top: 80px
+}
+@media screen and (max-width: 900px){
+	body{
+	background-image: url("images/hannibal3mobile.png");
+	background-size: cover;
+	background-position: absolute;
+}
+	#text1{
+		position:absolute;
+		font-size: 24px;
+		width:350px;
+		left:250px;
+		top: 80px;
+}
