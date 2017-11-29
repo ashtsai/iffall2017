@@ -1,0 +1,25 @@
+html ,
+body {
+	background: url(../images/index.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 { 
+	font-family: 'Inconsolata', monospace;
+	font-size: 28px;
+	color: white;
+}
+
+a {
+	color:white;
+}
+
+.centered {
+    position: absolute;
+    top: 52%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
