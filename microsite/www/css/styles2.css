@@ -1,10 +1,9 @@
 body {
-    background: url(../images/index.jpg);
+    background: url(../images/home.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    background-opacity: 50%;
 }
 ul {
     list-style-type: none;
@@ -32,7 +31,18 @@ body {
     font-size: 14px;
     color: white;
 }
+h1 {
+    font-size:100px;
+    color:black;
 
-a {
-    color:white;
 }
+h1:hover {
+    filter:invert(100%);
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+

@@ -1,0 +1,48 @@
+body {
+    background: url(../images/home.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: black;
+    position:center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body { 
+    font-family: 'Inconsolata', monospace;
+    font-size: 14px;
+    color: white;
+}
+h1 {
+    font-size:100px;
+    color:black;
+
+}
+h1:hover {
+    filter:invert(100%);
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+

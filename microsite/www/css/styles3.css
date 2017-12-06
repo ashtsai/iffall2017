@@ -1,0 +1,49 @@
+html ,
+body {
+	background: url(../images/overview.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: black;
+    position:center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body { 
+    font-family: 'Inconsolata', monospace;
+    font-size: 14px;
+    color: white;
+}
+b {
+	font-size:24px;
+}
+
+p{
+	font-size: 14px;
+	color: black;
+	background-color: white;
+	width: 300px;
+	padding: 20px;
+	opacity:0.7;
+	position:absolute;
+	top:20%;
+	left:20%;
+}

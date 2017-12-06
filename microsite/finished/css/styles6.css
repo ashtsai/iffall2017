@@ -1,0 +1,36 @@
+html ,
+body {
+	background-color:white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: black;
+    position:center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body { 
+    font-family: 'Inconsolata', monospace;
+    font-size: 14px;
+    color: black;
+}
+
+.timeline {
+    width:500px;
+    text-align:center;
+    margin:auto;
+}
