@@ -1,0 +1,12 @@
+html ,
+body {
+	margin:auto;
+	margin-top: 30px;
+	color:black;
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+	background-color:white;
+	font-size:10pt;
+}
+a:hover {
+	opacity: .8;
+}
